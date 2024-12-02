@@ -1,4 +1,4 @@
-**# StudentsManagement**# Students Management
+# Students Management
 
 **Students Management** is a desktop application developed in **Java** using **Swing** for the user interface. The application helps manage students and their respective academic fields (filières). It provides a simple and intuitive GUI for performing CRUD operations on two main entities: **Etudiant** (Student) and **Filière** (Field of Study).
 
